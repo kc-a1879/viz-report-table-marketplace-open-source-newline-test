@@ -61,9 +61,10 @@
   /*background: #FFFFFF;*/
   border: 1px solid #cccccc;
   border-collapse: collapse;
+  
 
   /* Add customization here  */
-  white-space: pre-line; /* Or use pre-line */
+  white-space: pre-wrap;
 }
 
 .left {
