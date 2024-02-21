@@ -63,6 +63,7 @@
   border-collapse: collapse;
 
   /* Add customization here  */
+  white-space: pre-wrap; /* Or use pre-line */
 }
 
 .left {
